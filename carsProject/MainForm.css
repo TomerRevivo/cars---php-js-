@@ -1,0 +1,22 @@
+.input-group input-group-lg {
+  text-align: center;
+}
+.input {
+  bottom: -40px;
+}
+body {
+  padding: 70px;
+}
+.container {
+  border: 2px solid blue;
+  text-align: center;
+  height: 500px;
+  width: 800px;
+}
+.row p {
+  padding-top: 10px;
+}
+.my-btn {
+  bottom: -60px;
+  left: 100%;
+}
